@@ -11,6 +11,14 @@
     <img src="https://img.shields.io/badge/Matplotlib-3.x-orange?logo=matplotlib&logoColor=white" alt="Matplotlib">
   </a>
 </p>
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English">
+  </a>
+  <a href="README_TR.md">
+    <img src="https://img.shields.io/badge/lang-Türkçe-red.svg" alt="Turkish">
+  </a>
+</p>
 
 ## Proje Hakkında
 
