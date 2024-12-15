@@ -1,4 +1,4 @@
-# Regresyon Modeli ile Kredi Risk Puanı Hesaplama
+# Regresyon Modeli ile Kredi Risk Puanı Tahmini
 
 <p align="center">
   <a href="https://pandas.pydata.org/">
