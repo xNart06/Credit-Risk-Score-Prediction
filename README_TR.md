@@ -46,7 +46,8 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 ### 3. **Arayüz Geliştirme**
 - **Tkinter** kullanarak müşteri verilerini girebileceğiniz ve tahmin sonuçlarını görebileceğiniz bir arayüz oluşturma.
 
-
+## Sonuç
+İki nodel üzerindeki çalışmalar sonucu RandomForestRegressor modeli tercih edilmiştir. İlgili metriklerin görselleri aşağıdadır.
 
 ## Veri Seti 📂
 
