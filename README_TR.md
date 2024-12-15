@@ -46,27 +46,7 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 ### 3. **Arayüz Geliştirme**
 - **Tkinter** kullanarak müşteri verilerini girebileceğiniz ve tahmin sonuçlarını görebileceğiniz bir arayüz oluşturma.
 
----
 
-## Kurulum 🛠️
-
-1. Reponun kopyasını alın:
-    ```bash
-    git clone https://github.com/kullaniciadi/kredi-risk-puani.git
-    cd kredi-risk-puani
-    ```
-
-2. Gerekli kütüphaneleri yükleyin:
-    ```bash
-    pip install -r src/requirements.txt
-    ```
-
-3. Projeyi çalıştırın:
-    ```bash
-    python src/interface.py
-    ```
-
----
 
 ## Veri Seti 📂
 
