@@ -87,9 +87,10 @@ Veri seti Kaggle'da mevcuttur:
 
 <p align="left">
   <a href="https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval">
-    <img src="klogo.png" alt="Kaggle link">
+    <img src="https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle&logoColor=white" alt="Kaggle Dataset">
   </a>
 </p>
+
 
 `Loan.csv` dosyası `dataset/` klasöründe mevcut.
 
