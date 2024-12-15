@@ -2,15 +2,19 @@
 
 <p align="center">
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-1.x-blue?logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-1.x-blue?logo=python&logoColor=white" alt="Pandas">
   </a>
   <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/Scikit--Learn-0.24-green?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   </a>
   <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-3.x-orange?logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Matplotlib-3.x-orange?logo=python&logoColor=white" alt="Matplotlib">
+  </a>
+  <a href="https://docs.python.org/3/library/tkinter.html">
+    <img src="https://img.shields.io/badge/Tkinter-Built--in-yellow?logo=python&logoColor=white" alt="Tkinter">
   </a>
 </p>
+
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English">
