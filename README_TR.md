@@ -53,7 +53,9 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 ### Birinci test:
 <img src="images/Pred1.jpg" alt="Pred1">
 <img src="images/Pred1_1.jpg" alt="Pred1_1">
+
 ### İkinci test:
+
 <img src="images/Pred2.jpg" alt="Pred2">
 <img src="images/Pred2_2.jpg" alt="Pred2_2">
 
