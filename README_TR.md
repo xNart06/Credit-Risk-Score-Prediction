@@ -87,7 +87,7 @@ Veri seti Kaggle'da mevcuttur:
 
 <p align="left">
   <a href="https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval">
-    <img src="https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle&logoColor=white" alt="Kaggle Dataset">
+    <img src="images/klogo.png" alt="Kaggle Logo" width="200">
   </a>
 </p>
 
