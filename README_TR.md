@@ -53,7 +53,7 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 Veri seti Kaggle'da mevcuttur:  
 [Financial Risk for Loan Approval](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval)
 
-`Loan.csv` dosyasını `data/` klasörüne yerleştirin.
+`Loan.csv` dosyasını `dataset/` klasöründe mevcut.
 
 ---
 
