@@ -1,4 +1,4 @@
-# Credit Risk Score Calculation with Regression Model
+# Credit Risk Score Prediction with Regression Model
 
 <p align="center">
   <a href="https://pandas.pydata.org/">
