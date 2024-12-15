@@ -43,11 +43,13 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 - **RandomForestRegressor** ve **LinearRegression** ile modeli eğitme.
 - **R² skoru** ve **Ortalama Kare Hatası (MSE)** gibi metriklerle model değerlendirme.
 
-### 3. **Arayüz Geliştirme**
+### 3. **Metriklerin oluşturulması**
+- İki nodel üzerindeki çalışmalar sonucu RandomForestRegressor modeli tercih edilmiştir. İlgili metriklerin görselleri aşağıdadır.
+
+### 4. **Arayüz Geliştirme**
 - **Tkinter** kullanarak müşteri verilerini girebileceğiniz ve tahmin sonuçlarını görebileceğiniz bir arayüz oluşturma.
 
-## Sonuç
-İki nodel üzerindeki çalışmalar sonucu RandomForestRegressor modeli tercih edilmiştir. İlgili metriklerin görselleri aşağıdadır.
+
 
 ## Veri Seti 📂
 
