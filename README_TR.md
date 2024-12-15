@@ -50,10 +50,10 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 - **Tkinter** kullanarak müşteri verilerini girebileceğiniz ve tahmin sonuçlarını görebileceğiniz bir arayüz oluşturma.
 - Model ile tahmin testleri yapılması
 - Yapılan testlerde kullanılan değerler train datasetinden ayrı tutulan değerlerdir.
-- Birinci test:
+### Birinci test:
 <img src="images/Pred1.jpg" alt="Pred1">
 <img src="images/Pred1_1.jpg" alt="Pred1_1">
-- İkinci test:
+### İkinci test:
 <img src="images/Pred2.jpg" alt="Pred2">
 <img src="images/Pred2_2.jpg" alt="Pred2_2">
 
