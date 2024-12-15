@@ -45,7 +45,10 @@ Bu proje, banka müşterilerinin finansal verilerini analiz ederek kredi risk pu
 
 ### 3. **Metriklerin Oluşturulması**
 - İki nodel üzerindeki çalışmalar sonucu RandomForestRegressor modeli tercih edilmiştir. İlgili metriklerin görselleri aşağıdadır.
-
+<img src="images/RandomForest.png.jpg" alt="RandomForest">
+<img src="images/RandomMetric.png" alt="RandomMetric">
+<img src="images/Linear.png" alt="Linear">
+<img src="images/LinearMetric.png" alt="LinearMetric">
 ### 4. **Arayüz Geliştirme ve Sonuç**
 - **Tkinter** kullanarak müşteri verilerini girebileceğiniz ve tahmin sonuçlarını görebileceğiniz bir arayüz oluşturma.
 - Model ile tahmin testleri yapılması
