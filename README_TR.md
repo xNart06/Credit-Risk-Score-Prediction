@@ -90,11 +90,7 @@ Veri seti Kaggle'da mevcuttur:
     <img src="images/Kaggle_logo.png" alt="Kaggle Logo" width="200">
   </a>
 </p>
-<p align="left" style="background-color: white; display: inline-block; padding: 5px;">
-  <a href="https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval">
-    <img src="images/Kaggle_logo.png" alt="Kaggle Logo" width="200">
-  </a>
-</p>
+
 
 `Loan.csv` dosyası `dataset/` klasöründe mevcut.
 
